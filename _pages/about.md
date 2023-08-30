@@ -24,21 +24,4 @@ I also got my hands dirty with some work at companies such as Citibank or IBM, a
 
 I'm profoundly interested in the [impacts of AI](https://medium.com/@sir.gustav/five-human-dangers-of-artificial-intelligence-ccf2ae4b92c7) on humanity. I support local Unicef and People-in-Need  branches. I spend most of my spare time with my wife and kids, but I also love traveling, diving and paragliding.
 
-If you want to talk with me, you can [schedule an appointment](https://calendar.app.google/4j4pUxFG8AykacBJ6).
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0OY24yrndViDcHqYZyx0CAoww_L1hLxZUBMGyNba4b76hPR6Q62SvBTCk45b88im76iMP2Ctt1?gv=true',
-      color: '#039BE5',
-      label: "meeting",
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
+If you'd like to talk with me, please reach out via email, then you can also [schedule an appointment](https://calendar.app.google/4j4pUxFG8AykacBJ6).
