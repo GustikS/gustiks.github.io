@@ -18,3 +18,23 @@ I received my B.Sc. in *Intelligent Systems*, M.Sc. in *Artificial Intelligence*
 During the studies, I've also gained some international experience from [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore, [National Taiwanese University of Science and Technology](https://www.ntust.edu.tw/?Lang=en) in Taipei, and [University of York](https://www.york.ac.uk/). I also got my hands dirty with some work at companies such as Citibank or IBM, as well as some research projects at [IBM Research](https://www.research.ibm.com/labs/haifa/) in Haifa and [Google](https://research.google/locations/zurich/) in Zurich.
 
 I'm profoundly interested in the [impacts of AI](https://medium.com/@sir.gustav/five-human-dangers-of-artificial-intelligence-ccf2ae4b92c7) on humanity. I support local Unicef and People-in-Need  branches. I spend most of my spare time with my wife and kids, but I also love traveling, diving and paragliding.
+
+If you want to talk with me, you can [schedule an appointment](https://calendar.app.google/4j4pUxFG8AykacBJ6).
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0OY24yrndViDcHqYZyx0CAoww_L1hLxZUBMGyNba4b76hPR6Q62SvBTCk45b88im76iMP2Ctt1?gv=true',
+      color: '#039BE5',
+      label: "meeting",
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
