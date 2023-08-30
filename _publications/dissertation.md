@@ -2,7 +2,7 @@
 title: "*Deep Learning with Relational Logic Representations*"
 collection: publications
 permalink: /publication/dissertation
-excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning.'
+excerpt: 'This is actually my dissertation thesis - it contains my work on deep relational learning, which got also published as a [**book**](https://www.iospress.com/catalog/books/deep-learning-with-relational-logic-representations)'
 date: 2021-05-11
 venue: 'Czech Technical University press (theses)'
 paperurl: 'https://gustiks.github.io/files/dissertation.pdf'
