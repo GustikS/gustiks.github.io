@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the [Intelligent Data Analysis](http://ida.fel.cvut.cz) lab at the [Department of Computer Science](http://cs.fel.cvut.cz/) of the [Faculty of Electrical Engineering](https://www.fel.cvut.cz/en) at [Czech Technical University](https://www.cvut.cz/en) in Prague, Czech Republic.
+I'm an assistant professor in the [Intelligent Data Analysis](http://ida.fel.cvut.cz) lab at the [Department of Computer Science](http://cs.fel.cvut.cz/) of the [Faculty of Electrical Engineering](https://www.fel.cvut.cz/en) at [Czech Technical University](https://www.cvut.cz/en) in Prague.
 
 I'm interested in Artificial Intelligence research, with a particular focus on (deep) *relational* machine learning - i.e. learning from data with complex dependencies and structures such as (knowledge) graphs and databases. 
 To approach this problem, I like to combine formal representations from *relational logic* with ideas from *deep learning*. 
