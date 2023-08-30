@@ -24,4 +24,4 @@ I also got my hands dirty with some work at companies such as Citibank or IBM, a
 
 I'm profoundly interested in the [impacts of AI](https://medium.com/@sir.gustav/five-human-dangers-of-artificial-intelligence-ccf2ae4b92c7) on humanity. I support local Unicef and People-in-Need  branches. I spend most of my spare time with my wife and kids, but I also love traveling, diving and paragliding.
 
-If you'd like to talk with me, please reach out via email, then you can also [schedule an appointment](https://calendar.app.google/4j4pUxFG8AykacBJ6).
+If you'd like to talk with me, please reach out via email, then you can also [schedule a meeting](https://calendar.app.google/4j4pUxFG8AykacBJ6).
