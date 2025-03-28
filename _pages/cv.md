@@ -19,8 +19,10 @@ Highlights
 - [Best PhD thesis](http://svobodovacena.ciirc.cvut.cz/) of 2021 (Antonin Svoboda's award)
     - granted by [Czech Society for Cybernetics and Informatics](https://www.cski.cz/homepage/en)
     - selected for [a book](https://www.iospress.com/catalog/books/deep-learning-with-relational-logic-representations) publication in frontiers in AI
-- [Distinguished PC member](https://ijcai-22.org/distinguished-pc-members/) at IJCAI 2022
+- [Distinguished PC member](https://ijcai-22.org/distinguished-pc-members/) at IJCAI
   - recognized within the top 3% of reviewers
+- [Best paper runner-up](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ICAPS 2024
+  - International Conference on Planning & Scheduling
 - [Best paper](http://cs.fel.cvut.cz/en/page/the-best-paper-award-2017) @ ILP 2017
     - International Conference on Inductive Logic Programming (Relational ML)
 - UPE Executive Council [Award](http://cs.fel.cvut.cz/en/page/upe-2016-scholarship-award)
@@ -38,9 +40,13 @@ Highlights
 You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
 
 ### Invited talks:
-- University of Cambridge
-  - in AI research group seminar series in the Department of Computer Science
-- Virginia Tech
+- Neurosymbolic AI (2025)
+  - [recorded](https://www.youtube.com/watch?v=WtA8xbCvNMY) for the neuro-symbolic community (NSAI Journal & NeSy conference)
+- RLeap symposium (2024)
+  - among invited speakers to Hector Geffner's [Symposium](https://symposium.ml.rwth-aachen.de/) on Representation Learning to Act and Plan
+- University of Cambridge (2022)
+  - in AI research group seminar series at the Department of Computer Science
+- Virginia Tech (2022)
   - in a joint Data Science course with Morgan State and Hampden-Sydney
 
 <!--- 
