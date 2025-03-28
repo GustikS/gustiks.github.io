@@ -37,7 +37,12 @@ Highlights
 - Top department stats at ResearchGate :-D
   - from our CS department, my papers have been the [most read](https://www.researchgate.net/profile/Gustav-Sir/achievement/620a2ba063725805387f7b91) for over 2 years
 
-You can also read more about me in an interview for magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
+You can also read more about me in an interview  and the [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) programme (in czech).
+### Interviews
+
+- For magazine [Dotyk](https://www.dotyk.cz/byznys/uci-stroje-chapat-vyznamy-slov.html) 
+- For programme [Open Informatics](https://oi.fel.cvut.cz/cs/gustav-sourek-absolvent-magisterskeho-oboru-umela-inteligence-v-r-2013) 
+- For podcast [Stopaz](https://podcasty.seznam.cz/podcast/stopaz/budoucnost-s-ai-bud-se-vyhubime-a-nebo-splyneme-s-planetou-231717)
 
 ### Invited talks:
 - Neurosymbolic AI (2025)
